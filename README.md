@@ -1,5 +1,5 @@
 # postForm
-postForm is an open-sourse JQuery plugin that helps you post your form including files without (re)loading pages using Ajax.
+postForm is an open-source JQuery plugin that helps you post your form including files without (re)loading pages using Ajax.
 
 # Usage
 ```javascript
