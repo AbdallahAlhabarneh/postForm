@@ -1,7 +1,11 @@
 # postForm
 postForm is an open-source JQuery plugin that helps you post your form including files without (re)loading pages using Ajax.
 
-# Usage
+### Getting Started
+```html
+<script src="gapostform.js"></script>
+```
+### How to use
 ```javascript
 $("form").postForm({
   url: 'file.php'
@@ -20,5 +24,5 @@ $("form").postForm({
   }
 });
 ```
-# Who I am
-https://twitter.com/abewichner or https://www.facebook.com/abe.wichner
+## Who I am
+[Follow me on Twitter](https://twitter.com/abewichner) or [Find me on Facebook](https://www.facebook.com/abe.wichner)
