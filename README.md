@@ -28,3 +28,6 @@ $("form").postForm({
 ```
 ## Follow me on social media
 [Follow me on Twitter](https://twitter.com/abewichner) or [Find me on Facebook](https://www.facebook.com/abe.wichner)
+
+## Author and License
+Created and maintained by [Abe J. Wichner](https://github.com/abewichner) under the MIT license.
