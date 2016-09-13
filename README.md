@@ -6,7 +6,7 @@ You can either copy the following html script tag:
 ```html
 <script src="https://raw.githubusercontent.com/AbeWichner/postForm/master/gapostform.js"></script>
 ```
-or download the script file from [here](https://github.com/AbeWichner/postForm/archive/master.zip)
+or download the script file from [here](https://github.com/AbeWichner/postForm/archive/master.zip).
 ### How to use
 ```javascript
 $("form").postForm({
