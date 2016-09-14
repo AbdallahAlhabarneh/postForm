@@ -9,21 +9,23 @@ You can either copy the following html script tag:
 or download the script file from [here](https://github.com/AbeWichner/postForm/archive/master.zip).
 ### How to use
 ```javascript
-$("form").postForm({
-  url: 'file.php'
-  dataType: 'json',
-  success: function(result){
-    if(typeof result.done != 'undefined' && result.done == true) console.info('Done');
-  },
-  error: function(xhr, status){
-    console.error('Error!\n' + status);
-  },
-  beforeSend: function(){
-    console.log('Sending your form');
-  },
-  complete: function(){
-    console.log('Form is completed');
-  }
+$("#myform").on("submit",function(e){
+  $(this).postForm({
+    url: 'file.php'
+    dataType: 'json',
+    success: function(result){
+      if(typeof result.done != 'undefined' && result.done == true) console.info('Done');
+    },
+    error: function(xhr, status){
+      console.error('Error!\n' + status);
+    },
+    beforeSend: function(){
+      console.log('Sending your form');
+    },
+    complete: function(){
+      console.log('Form is completed');
+    }
+  });
 });
 ```
 ## Follow me on social media
