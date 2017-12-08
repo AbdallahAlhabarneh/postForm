@@ -32,4 +32,4 @@ $("#myform").on("submit",function(e){
 [Follow me on Twitter](https://twitter.com/abewichner) or [Find me on Facebook](https://www.facebook.com/abe.wichner)
 
 ## Author and License
-Created and maintained by [Abdallah Alhabarneh](https://github.com/abewichner) under the MIT license.
+Created and maintained by [Abdallah Alhabarneh](https://github.com/AbdallahAlhabarneh) under the MIT license.
