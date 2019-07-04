@@ -29,7 +29,7 @@ $("#myform").on("submit",function(e){
 });
 ```
 ## Follow me on social media
-[Follow me on Twitter](https://twitter.com/abewichner) or [Find me on Facebook](https://www.facebook.com/abe.wichner)
+[Follow me on Questific](https://www.questific.com/user/alhabarneh) or [Find me on Facebook](https://www.facebook.com/aalhabarneh)
 
 ## Author and License
 Created and maintained by [Abdallah Alhabarneh](https://github.com/AbdallahAlhabarneh) under the MIT license.
